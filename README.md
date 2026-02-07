@@ -1,6 +1,9 @@
-# E-Commerce Website
+# 🛒 Smart Basket – E-Commerce Web App
 
-A Ecommerce Website made with React.js Framework.
+Smart Basket is a modern, responsive E-Commerce web application built using React.js.  
+It allows users to browse products, view details, and manage their shopping cart efficiently.  
+The project is designed to be easily scalable and backend-ready.
+
 
 
 ## Features

